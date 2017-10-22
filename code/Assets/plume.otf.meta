@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 23deba488dd28d640b1f982b1601798c
+timeCreated: 1498028447
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Plume
+  fontNames:
+  - Plume
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

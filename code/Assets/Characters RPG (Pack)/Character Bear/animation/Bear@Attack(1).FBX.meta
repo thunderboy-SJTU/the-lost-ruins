@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: f96ab0fc823e8124f9df023e4f57d5bd
+timeCreated: 1444490268
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Armor__forearm
+    100002: Armor_belt
+    100004: Armor_legs
+    100006: Armor_shoulders
+    100008: //RootNode
+    100010: Body
+    100012: Camera001
+    100014: Camera001.Target
+    100016: CATRigHub002
+    100018: CATRigHub002Bone001
+    100020: CATRigHub002Bone001Bone001
+    100022: CATRigHub002Bone001Bone001Bone001
+    100024: CATRigHub002Bone001Bone001Bone001Bone001
+    100026: CATRigHub002Bone002
+    100028: CATRigHub002Bone002Bone001
+    100030: CATRigHub002Bone002Bone001 1
+    100032: CATRigHub002Bone002Bone001Bone001
+    100034: CATRigHub002Bone002Bone001Bone001 1
+    100036: CATRigHub002Bone003
+    100038: CATRigHub002Bone004
+    100040: CATRigHub002Bone005
+    100042: CATRigHub002Bone006
+    100044: CATRigHub002Bone006Bone001
+    100046: CATRigHub002Bone006Bone001 1
+    100048: CATRigHub002Bone006Bone001Bone001
+    100050: CATRigHub002Bone006Bone001Bone001 1
+    100052: CATRigHub002Bone007
+    100054: CATRigHub002Bone008
+    100056: CATRigHub003
+    100058: CATRigHub004
+    100060: CATRigHub004Bone001
+    100062: CATRigHub004Bone002
+    100064: CATRigHub004Bone003
+    100066: CATRigHub004Bone004
+    100068: CATRigLArm1
+    100070: CATRigLArm2
+    100072: CATRigLArmCollarbone
+    100074: CATRigLArmDigit11
+    100076: CATRigLArmDigit12
+    100078: CATRigLArmDigit21
+    100080: CATRigLArmDigit22
+    100082: CATRigLArmDigit31
+    100084: CATRigLArmDigit32
+    100086: CATRigLArmDigit41
+    100088: CATRigLArmDigit42
+    100090: CATRigLArmDigit51
+    100092: CATRigLArmDigit52
+    100094: CATRigLArmIKTarget
+    100096: CATRigLArmPalm
+    100098: CATRigLLeg1
+    100100: CATRigLLeg2
+    100102: CATRigLLegAnkle
+    100104: CATRigLLegDigit11
+    100106: CATRigLLegPlatform
+    100108: CATRigRArm1
+    100110: CATRigRArm2
+    100112: CATRigRArmCollarbone
+    100114: CATRigRArmDigit11
+    100116: CATRigRArmDigit12
+    100118: CATRigRArmDigit21
+    100120: CATRigRArmDigit22
+    100122: CATRigRArmDigit31
+    100124: CATRigRArmDigit32
+    100126: CATRigRArmDigit41
+    100128: CATRigRArmDigit42
+    100130: CATRigRArmDigit51
+    100132: CATRigRArmDigit52
+    100134: CATRigRArmIKTarget
+    100136: CATRigRArmPalm
+    100138: CATRigRLeg1
+    100140: CATRigRLeg2
+    100142: CATRigRLegAnkle
+    100144: CATRigRLegDigit11
+    100146: CATRigRLegPlatform
+    100148: CATRigSpine
+    100150: CATRigSpine 1
+    100152: Center_belt
+    100154: character
+    100156: Character001
+    100158: Details_belt_01
+    100160: Details_belt_02
+    100162: Details_belt_03
+    100164: eyes
+    100166: Fastening_straps
+    100168: Hammer
+    100170: Jaws
+    100172: Object001
+    100174: Object002
+    100176: Object003
+    100178: Rings_on_the_chest
+    100180: Straps_on_the_chest
+    400000: Armor__forearm
+    400002: Armor_belt
+    400004: Armor_legs
+    400006: Armor_shoulders
+    400008: //RootNode
+    400010: Body
+    400012: Camera001
+    400014: Camera001.Target
+    400016: CATRigHub002
+    400018: CATRigHub002Bone001
+    400020: CATRigHub002Bone001Bone001
+    400022: CATRigHub002Bone001Bone001Bone001
+    400024: CATRigHub002Bone001Bone001Bone001Bone001
+    400026: CATRigHub002Bone002
+    400028: CATRigHub002Bone002Bone001
+    400030: CATRigHub002Bone002Bone001 1
+    400032: CATRigHub002Bone002Bone001Bone001
+    400034: CATRigHub002Bone002Bone001Bone001 1
+    400036: CATRigHub002Bone003
+    400038: CATRigHub002Bone004
+    400040: CATRigHub002Bone005
+    400042: CATRigHub002Bone006
+    400044: CATRigHub002Bone006Bone001
+    400046: CATRigHub002Bone006Bone001 1
+    400048: CATRigHub002Bone006Bone001Bone001
+    400050: CATRigHub002Bone006Bone001Bone001 1
+    400052: CATRigHub002Bone007
+    400054: CATRigHub002Bone008
+    400056: CATRigHub003
+    400058: CATRigHub004
+    400060: CATRigHub004Bone001
+    400062: CATRigHub004Bone002
+    400064: CATRigHub004Bone003
+    400066: CATRigHub004Bone004
+    400068: CATRigLArm1
+    400070: CATRigLArm2
+    400072: CATRigLArmCollarbone
+    400074: CATRigLArmDigit11
+    400076: CATRigLArmDigit12
+    400078: CATRigLArmDigit21
+    400080: CATRigLArmDigit22
+    400082: CATRigLArmDigit31
+    400084: CATRigLArmDigit32
+    400086: CATRigLArmDigit41
+    400088: CATRigLArmDigit42
+    400090: CATRigLArmDigit51
+    400092: CATRigLArmDigit52
+    400094: CATRigLArmIKTarget
+    400096: CATRigLArmPalm
+    400098: CATRigLLeg1
+    400100: CATRigLLeg2
+    400102: CATRigLLegAnkle
+    400104: CATRigLLegDigit11
+    400106: CATRigLLegPlatform
+    400108: CATRigRArm1
+    400110: CATRigRArm2
+    400112: CATRigRArmCollarbone
+    400114: CATRigRArmDigit11
+    400116: CATRigRArmDigit12
+    400118: CATRigRArmDigit21
+    400120: CATRigRArmDigit22
+    400122: CATRigRArmDigit31
+    400124: CATRigRArmDigit32
+    400126: CATRigRArmDigit41
+    400128: CATRigRArmDigit42
+    400130: CATRigRArmDigit51
+    400132: CATRigRArmDigit52
+    400134: CATRigRArmIKTarget
+    400136: CATRigRArmPalm
+    400138: CATRigRLeg1
+    400140: CATRigRLeg2
+    400142: CATRigRLegAnkle
+    400144: CATRigRLegDigit11
+    400146: CATRigRLegPlatform
+    400148: CATRigSpine
+    400150: CATRigSpine 1
+    400152: Center_belt
+    400154: character
+    400156: Character001
+    400158: Details_belt_01
+    400160: Details_belt_02
+    400162: Details_belt_03
+    400164: eyes
+    400166: Fastening_straps
+    400168: Hammer
+    400170: Jaws
+    400172: Object001
+    400174: Object002
+    400176: Object003
+    400178: Rings_on_the_chest
+    400180: Straps_on_the_chest
+    2300000: Armor__forearm
+    2300002: Armor_legs
+    2300004: Armor_shoulders
+    2300006: eyes
+    2300008: Hammer
+    2300010: Object001
+    2300012: Object002
+    2300014: Object003
+    3300000: Armor__forearm
+    3300002: Armor_legs
+    3300004: Armor_shoulders
+    3300006: eyes
+    3300008: Hammer
+    3300010: Object001
+    3300012: Object002
+    3300014: Object003
+    4300000: Object003
+    4300002: Armor_legs
+    4300004: eyes
+    4300006: Object002
+    4300008: Object001
+    4300010: Armor__forearm
+    4300012: Armor_shoulders
+    4300014: Hammer
+    4300016: Armor_belt
+    4300018: Details_belt_03
+    4300020: Rings_on_the_chest
+    4300022: Fastening_straps
+    4300024: Straps_on_the_chest
+    4300026: Jaws
+    4300028: Details_belt_02
+    4300030: Center_belt
+    4300032: Body
+    4300034: Details_belt_01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Armor_belt
+    13700002: Body
+    13700004: Center_belt
+    13700006: Details_belt_01
+    13700008: Details_belt_02
+    13700010: Details_belt_03
+    13700012: Fastening_straps
+    13700014: Jaws
+    13700016: Rings_on_the_chest
+    13700018: Straps_on_the_chest
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\moveforward.cs">
+    <Files>
+      <File FileName="Assets\moveforward.cs" Line="13" Column="21" />
+      <File FileName="Assets\gunshoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\ControllerManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\fenceController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

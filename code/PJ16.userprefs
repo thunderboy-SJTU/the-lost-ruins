@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\moveforward2.cs">
+    <Files>
+      <File FileName="Assets\moveforward.cs" Line="14" Column="36" />
+      <File FileName="Assets\moveforward2.cs" Line="96" Column="61" />
+      <File FileName="Assets\Loading.cs" Line="1" Column="1" />
+      <File FileName="Assets\gameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\processbar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Die.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
